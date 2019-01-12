@@ -20,63 +20,63 @@ var questions = [{
             divClass: ".tacoShell"
         },
         {
-            ques: "Nike paid design student, Carolyn Davison, how much for their Swoosh Logo?",
-            ans: ["$1000", "$13", "$100", "$35"],
-            name: "swoosh",
-            correct: "$35",
-            divClass: ".swoosh"
+            ques: "Taquitos are also known as what?",
+            ans: ["Empanadas", "Flautas", "Enchiladas", "Quesadillas"],
+            name: "taquitos",
+            correct: "flautas",
+            divClass: ".taquitos"
         },
         {
-            ques: "What was the first clothing brand to partner with Nike?",
-            ans: ["Patta", "Undefeated", "Stussy", "Diamond Supply Co."],
-            name: "colab",
-            correct: "Stussy",
-            divClass: ".colab"
+            ques: "What kind of taco is a lengua taco?",
+            ans: ["Goat", "intestines", "tongue", "rabbit"],
+            name: "lengua",
+            correct: "tongue",
+            divClass: ".lengua"
         },
         {
-            ques: "Who was Nike's first professional athlete endorser?",
-            ans: ["John McEnroe", "Michael Jordan", "Ilie Nastase", "Steve Prefontaine"],
+            ques: "",
+            ans: ["", "", "", ""],
             name: "endorser",
             correct: "Ilie Nastase",
             divClass: ".endorser"
         },
         {
-            ques: "When was the first Air Force 1 made?",
+            ques: "",
             ans: ["1982", "1983", "1984", "1985"],
             name: "firstForce",
             correct: "1982",
             divClass: ".firstForce"
         },
         {
-            ques: "Who designed the Air Max technology?",
+            ques: "",
             ans: ["Phil Knight", "Bill Bowerman", "Tinker Hatfield", "Hidefumi Hommyo"],
             name: "airMaxDesigner",
             correct: "Tinker Hatfield",
             divClass: ".airMaxDesigner"
         },
         {
-            ques: "When was the first Air Jordan 1's released to the public?",
+            ques: "",
             ans: ["2000", "1987", "1995", "1985"],
             name: "jordan",
             correct: "1985",
             divClass: ".jordan"
         },
         {
-            ques: "Nike's first sneaker design goes under what name today?",
+            ques: "",
             ans: ["Air Max 1", " Cortez", "Structure Triax", "Air Force 1"],
             name: "firstDesign",
             correct: "Cortez",
             divClass: ".firstDesign"
         },
         {
-            ques: "Which state was Nike's first retail space was opened in?",
+            ques: "",
             ans: ["Oregon", "New York", "California", "Florida"],
             name: "retailStore",
             correct: "California",
             divClass: ".retailStore"
         },
         {
-            ques: "Nike was originally a distribution company for which brand?",
+            ques: "",
             ans: ["Adidas", "New Balance", "Saucony", "Onitsuka Tiger"],
             name: "distribution",
             correct: "Onitsuka Tiger",

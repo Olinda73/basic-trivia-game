@@ -34,36 +34,36 @@ var questions = [{
             divClass: ".lengua"
         },
         {
-            ques: "",
-            ans: ["", "", "", ""],
-            name: "endorser",
-            correct: "Ilie Nastase",
-            divClass: ".endorser"
+            ques: "What topping is not traditionally found on an authentic Mexican taco?",
+            ans: ["salsa", "onion", "tomato", "cheese"],
+            name: "topping",
+            correct: "tomato",
+            divClass: ".topping"
+        },
+        {
+            ques: "What is the closest taco style to Taco Bell's standard Taco?",
+            ans: ["barbacoa", "picadillo", "beef fajita", "el pastor"],
+            name: "standardTaco",
+            correct: "picadillo",
+            divClass: ".standardTaco"
+        },
+        {
+            ques: "What is cooked with the meat for picadillo tacos?",
+            ans: ["raisins", "salsa", "radishes", "cilantro"],
+            name: "picadillo",
+            correct: "raisins",
+            divClass: ".picadillo"
+        },
+        {
+            ques: "What is a common ingredient in traditional green salsa?",
+            ans: ["avocado", "tomatillo", "green bell pepper", "tomato"],
+            name: "greenSalsa",
+            correct: "tomatillo",
+            divClass: ".greenSalsa"
         },
         {
             ques: "",
-            ans: ["1982", "1983", "1984", "1985"],
-            name: "firstForce",
-            correct: "1982",
-            divClass: ".firstForce"
-        },
-        {
-            ques: "",
-            ans: ["Phil Knight", "Bill Bowerman", "Tinker Hatfield", "Hidefumi Hommyo"],
-            name: "airMaxDesigner",
-            correct: "Tinker Hatfield",
-            divClass: ".airMaxDesigner"
-        },
-        {
-            ques: "",
-            ans: ["2000", "1987", "1995", "1985"],
-            name: "jordan",
-            correct: "1985",
-            divClass: ".jordan"
-        },
-        {
-            ques: "",
-            ans: ["Air Max 1", " Cortez", "Structure Triax", "Air Force 1"],
+            ans: ["", " ", "", ""],
             name: "firstDesign",
             correct: "Cortez",
             divClass: ".firstDesign"
@@ -77,7 +77,7 @@ var questions = [{
         },
         {
             ques: "",
-            ans: ["Adidas", "New Balance", "Saucony", "Onitsuka Tiger"],
+            ans: ["", "", "", ""],
             name: "distribution",
             correct: "Onitsuka Tiger",
             divClass: ".distribution"

@@ -10,12 +10,8 @@ h1 {
     color: orange;
 }
 
-#splashscreen {
-    background-image: url('../images/nike-bg.png');
-    background-repeat: no-repeat;
-    width: 35%;
-    margin: 0 auto;
-    border-radius: 5px;
+div {
+    background-color: green;
 }
 
 .black-background {

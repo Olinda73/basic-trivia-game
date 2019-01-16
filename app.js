@@ -62,25 +62,25 @@ var questions = [{
             divClass: ".greenSalsa"
         },
         {
-            ques: "",
-            ans: ["", " ", "", ""],
-            name: "firstDesign",
-            correct: "Cortez",
-            divClass: ".firstDesign"
+            ques: "What is a common seasoning for taco meat?",
+            ans: ["Cumin", "Paprika", "Shallot", "Parsley"],
+            name: "seasoning",
+            correct: "Cumin",
+            divClass: ".seasoning"
         },
         {
-            ques: "",
+            ques: "In which state did Taco trucks first flourish?",
             ans: ["Oregon", "New York", "California", "Florida"],
-            name: "retailStore",
+            name: "tacoTrucks",
             correct: "California",
-            divClass: ".retailStore"
+            divClass: ".tacoTrucks"
         },
         {
-            ques: "",
-            ans: ["", "", "", ""],
-            name: "distribution",
-            correct: "Onitsuka Tiger",
-            divClass: ".distribution"
+            ques: "What is the flour that is used to make traditional taco shells?",
+            ans: ["Masa", "Coconut", "Tapioca", "Wheat"],
+            name: "flour",
+            correct: "Masa",
+            divClass: ".flour"
         }
     ] // end questions object
 
